@@ -1,0 +1,53 @@
+.todo-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.task-input {
+  padding: 8px;
+  width: 70%;
+  margin-right: 10px;
+}
+
+.add-button {
+  padding: 8px 12px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.task-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.task-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 5px 0;
+}
+
+.completed-task {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.delete-button {
+  margin-left: auto;
+  background: none;
+  border: none;
+  color: red;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.congrats-message {
+  font-weight: bold;
+  color: green;
+  margin-top: 15px;
+}
