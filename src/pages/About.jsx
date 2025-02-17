@@ -29,7 +29,7 @@ export default function About() {
       <p>
         <b>Get Started!</b> To get started, simply try adding your first task
         and manage it as you go. We hope this app helps you stay on track and
-        get things done
+        get things done!
       </p>
     </div>
   );
