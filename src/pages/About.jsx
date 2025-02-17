@@ -21,21 +21,10 @@ export default function About() {
           <b>Deleting Tasks:</b> If you want to remove a task, click the red X
           next to the task in the list.
         </li>
-        <li>
-          <b>Task Management:</b> You can easily manage your tasks by
-          categorizing them, prioritizing them, or simply checking them off as
-          completed.
-        </li>
-        <li>
-          <b>Cross-Device Sync:</b> Access your tasks on different devices,
-          ensuring you can stay on top of your to-dos from anywhere.
-        </li>
       </ul>
       <p>
         <b>Our Goal</b> Our goal is to provide a simple, no-frills task
-        management experience that helps you stay organized and focused. We
-        continuously improve the app to offer new features and make task
-        management even easier.
+        management experience that helps you stay organized and focused.
       </p>
       <p>
         <b>Get Started!</b> To get started, simply try adding your first task
